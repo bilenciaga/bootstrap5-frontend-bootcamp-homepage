@@ -1,2 +1,3 @@
-# bootstrap5-frontend-bootcamp-homepage
-get to know bootstrap 5 
+Purpose of the project:
+  Practicing HTML and CSS
+  Get to know Bootstrap 5 's basics.
